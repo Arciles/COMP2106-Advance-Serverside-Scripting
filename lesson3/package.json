@@ -1,0 +1,19 @@
+{
+  "name": "comp2016-sss-lesson3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Esat IBIS <esat.taha.ibis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
